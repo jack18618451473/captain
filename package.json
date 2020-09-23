@@ -1,0 +1,23 @@
+{
+  "name": "captain",
+  "version": "1.0.0",
+  "description": "for ember api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack18618451473/captain.git"
+  },
+  "keywords": [
+    "ember",
+    "api"
+  ],
+  "author": "jack lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack18618451473/captain/issues"
+  },
+  "homepage": "https://github.com/jack18618451473/captain#readme"
+}
